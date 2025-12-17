@@ -3,7 +3,7 @@
     <td>
 
 <h1>Hola, soy <a href="https://www.linkedin.com/in/eli-fenick-urra">Elizabeth Fenick</a> 👋</h1>
-<h3>Ingeniera en Informática | Analista de Datos Junior  | Analista de Datos Junior </h3>
+<h3>Ingeniera en Informática | Analista de Datos Junior  | Analista de Soporte de Sistemas </h3>
 <p>📊 Interesada en el análisis de datos, la mejora de procesos y el uso de tecnología para apoyar la toma de decisiones.</p>
 
   </td>
