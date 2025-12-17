@@ -83,7 +83,7 @@ Busco mi **primera oportunidad formal en el área de Análisis de Datos**, donde
 
 ---
 
-### 🌍 Encuéntrame en:Agrfega
+### 🌍 Encuéntrame en:
 
 - 🔗 **LinkedIn:** [Elizabeth Fenick](https://www.linkedin.com/in/eli-fenick-urra-47a152380/)
 - 📂 **GitHub:** este perfil 😉
